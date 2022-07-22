@@ -57,7 +57,7 @@ const renderProfile = (res) => {
     <button class="card__button" id="returnButton"
       onclick="location.reload()">buscar otro usuario</button>
     <div class="card__footer">
-      <img src="img/logo footer.svg" alt="">
+      <img src="img/logofooter.svg" alt="">
     </div>`
 };
 
